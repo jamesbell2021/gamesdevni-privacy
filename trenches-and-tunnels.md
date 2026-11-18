@@ -1,6 +1,6 @@
 # Privacy Policy — Trenches & Tunnels
 
-*Last updated: 10 November 2026*
+*Last updated: 18 November 2026*
 
 Trenches & Tunnels is a game made by **3BL_Indie** (Northern Ireland).
 
@@ -12,9 +12,9 @@ Trenches & Tunnels does not collect, store or send any personal information to u
 
 - **Settings, campaign progress (stars) and battlefields you make in the Battlefield Editor** are saved in the game's own data folder on your PC. They are never uploaded.
 
-## The Microsoft Store version and its free trial
+## The Microsoft Store version
 
-The Microsoft Store version asks Windows whether your copy is a free trial or has been bought. Windows and the Microsoft Store handle that check; the game only receives the answer (trial or bought), and nothing is sent to us. The time you have played of a free trial is kept in the game's data folder on your PC. If you choose to buy the game, the purchase is made in the Microsoft Store under Microsoft's own privacy policy.
+If you buy the game from the Microsoft Store, the purchase is made in the Store under Microsoft's own privacy policy. The game itself does not check or report anything about your purchase, and nothing is sent to us.
 
 ## Multiplayer
 
