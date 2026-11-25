@@ -6,9 +6,10 @@ Wee Man is a game made by **3BL_Indie** (Northern Ireland).
 
 ## The short version
 
-Wee Man has no accounts, no adverts and no analytics or tracking. Nothing is ever sent to us, and we do not
-collect or store any information about you. His AI and his voice run on your own computer, so talking to him
-does not send your words out over the internet.
+Wee Man has no accounts, no adverts and no analytics or tracking. We do not collect or store any information
+about you, and the game sends nothing to us on its own — the only thing that ever reaches us is a report you
+choose to send yourself (see **Reporting what he said**). His AI and his voice run on your own computer, so
+talking to him does not send your words out over the internet.
 
 If another PC on your home network is also running Wee Man, the two games talk to each other directly. That
 exchange includes a short extract of the wee man's recent memories, and his memories include what you have
@@ -65,6 +66,14 @@ anything while another copy of Wee Man is running on the same network at the sam
 did nothing, do not run Wee Man on a network where another copy is running, or block those two ports for the
 game in your firewall.
 
+## Reporting what he said
+
+Because the wee man's words are made up by an AI as you play, **Settings → Report what he said** lets you tell us
+if he says something wrong or inappropriate. It opens your own email program with a message already written: what
+he last said (which you are free to edit or delete), a space for anything you want to add, and the game's version
+and the date. **Nothing is sent unless you choose to send it.** If you do send it, we receive your email address
+and whatever the message contains, and we use it only to look into the report and to reply to you.
+
 ## Links
 
 The gold book on his bookshelf, and the thank-you screen at the end of the free demo, have a button that opens
@@ -80,8 +89,8 @@ Microsoft provides to every developer.
 ## Children
 
 The game never asks for your name, your age, an email address or any other personal detail, and it sends nothing
-to us. If children play it on a shared network, please read **Neighbours** above, because what is typed to the
-wee man can be seen by other copies of the game on that same network.
+to us by itself. If children play it on a shared network, please read **Neighbours** above, because what is typed
+to the wee man can be seen by other copies of the game on that same network.
 
 ## Changes
 
